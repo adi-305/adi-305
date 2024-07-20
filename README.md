@@ -24,5 +24,9 @@ width = "1000"/>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-v3.8-blue" alt="Python Version">
+</a>
+
 </p>
 
