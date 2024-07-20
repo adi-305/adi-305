@@ -33,6 +33,5 @@ width = "1000"/>
 
 <a href="https://www.instagram.com/aditya30_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya30_05" height="30" width="40" /></a>
 </p>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-305&label=Profile%20views&color=0e75b6&style=flat" alt="adi-305" /> </p>
 
