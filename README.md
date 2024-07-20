@@ -31,10 +31,8 @@ width = "1000"/>
 <a href="https://www.linkedin.com/in/aditya-singhvi-033b10225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-singhvi-033b10225" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aditya30_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya30_05" height="30" width="40" /></a>
 <a href="[https://www.instagram.com/aditya30_05/](https://leetcode.com/u/Adi_786/)" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDk0914gTcacHBY8G7zjTX7C_NApHt9nilg&s" alt="aditya30_05" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Adi_786/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDk0914gTcacHBY8G7zjTX7C_NApHt9nilg&s" alt="aditya30_05" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Adi_786/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3E19FMbfXXnwFKPD31kLTqr51vbBd3F9CCQ&s" alt="aditya30_05" height="30" width="40" /></a>
 
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDk0914gTcacHBY8G7zjTX7C_NApHt9nilg&s
 
  
 </p>
