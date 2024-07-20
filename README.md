@@ -7,7 +7,9 @@
 width = "1000"/>
  <p/>
 
- <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=adi-305&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adi-305&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-305&layout=compact&theme=github_dark"/>|
 
