@@ -4,7 +4,7 @@
 
 <p align="center">
 <img alt="GIF" src="https://i.pinimg.com/564x/99/2e/ce/992eceb9ddfca10b99df4e332e8c7741.jpg" height="280" 
-width = "1000"/>
+width = "800"/>
  <p/>
 
 ## Github Stats
